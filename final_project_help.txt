@@ -1,0 +1,33 @@
+
+Commands available:
+
+guess
+	Description: 
+        You can guess 5 movies names in top 100 movies in 2018, 
+        which one has the highest rating and which one has the highest box office.
+
+
+	How do to:
+        Follow the instruction.
+        Step1 : Input the five movie names from the list I provided.
+        Step2 : Input a movie name that you think has the highest rating.
+        Step3 : Input a movie name that you think has the highest box office.
+        
+        Then, the system will show you...
+          1. The answer that you guessed
+          2. The histogram graph of the box office
+          3. The bubble chart in which the IMDb rating will be x-axis, 
+             runtime as the y-axis and bubble size as box office.
+          4. The CSV file which it shows top 100 movie names and their production companies.
+
+
+top100_movies
+
+	Description:
+        Show you a bar chart that presents the top 100 movies' ratings in 2018.
+
+help
+	Tell you how to play with this program.
+
+exit
+	End the program
